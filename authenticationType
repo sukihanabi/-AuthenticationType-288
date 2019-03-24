@@ -1,6 +1,6 @@
 Case#1 link: https://github.com/MicrosoftDocs/windows-powershell-docs/issues/288
 
-reference:
+reference::
 https://docs.microsoft.com/en-us/powershell/module/iscsi/connect-iscsitarget?view=win10-ps
 
 https://github.com/MicrosoftDocs/windows-powershell-docs/blob/master/docset/windows/iscsi/connect-iscsitarget.md
